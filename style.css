@@ -96,10 +96,11 @@ ul li {
 
 /* footer */
 
-.footer {
+.footerR {
     background-color: #818C78;
     color: white;
-    padding: 15px;
+    padding: 8px;
+    padding-top: 12px;
     position: fixed;
     bottom: 20px;
     right: 20px;
@@ -109,4 +110,19 @@ ul li {
     width: 30px;
     height: auto;
     margin-left: 4px;
+}
+
+.footerL {
+    background-color: #818C78;
+    color: white;
+    padding: 8px;
+    padding-top: 12px;
+    position: fixed;
+    bottom: 20px;
+    left: 20px;
+}
+
+audio {
+    width: 280px;
+    height: 30px;
 }
