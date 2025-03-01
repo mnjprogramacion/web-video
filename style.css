@@ -11,7 +11,7 @@ body {
     padding: 20px;
 }
 
-
+/* título */
 
 .title {
     background-color: #5C7285;
@@ -21,7 +21,7 @@ body {
     font-size: 48px;
 }
 
-
+/* main */
 
 .main {
     background-color: #A7B49E;
@@ -57,7 +57,7 @@ a:hover {
     margin: 20px 0;
 }
 
-
+/* artículos */
 
 .article {
     background-color: #A7B49E;
@@ -94,15 +94,22 @@ ul li {
     font-size: 1.1em;
 }
 
-
+/* footer */
 
 .footer {
     background-color: #818C78;
     color: white;
-    text-align: center;
     padding: 15px;
     position: fixed;
     bottom: 20px;
     right: 20px;
-    width: 250px;
+}
+
+.logo {
+    width: 30px;
+    height: auto;
+    margin-left: 4px;
+}
+
+.link {
 }
